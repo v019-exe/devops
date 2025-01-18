@@ -10,7 +10,7 @@ Proyectos principiantes
 
 1. [Server Performance Stats](https://github.com/v019-exe/devops/tree/main/proyectos/Server%20Performance%20Tool) ✅
 2. [Log Archive Tool](https://github.com/v019-exe/devops/tree/main/proyectos/Log%20Archive%20Tool) ✅
-3. Nginx Log Analyser
+3. [Nginx Log Analyser](https://github.com/v019-exe/devops/tree/main/proyectos/Nginx%20Log%20Analyser) ✅
 4. Github Pages deployment
 5. SSH Remote Server Setup
 6. Static Site Server
