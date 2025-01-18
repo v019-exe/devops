@@ -8,8 +8,8 @@ Dentro de ``./proyectos`` estarán los proyectos
 # Lista de proyectos
 Proyectos principiantes
 
-1. [Server Performance Stats](https://github.com/v019-exe/devops/tree/main/proyectos/Server%20Performance%20Tool) ✅
-2. [Log Archive Tool](https://github.com/v019-exe/devops/tree/main/proyectos/Log%20Archive%20Tool) ✅
+1. [Server Performance Stats](https://roadmap.sh/projects/server-stats) ✅
+2. [Log Archive Tool](https://roadmap.sh/projects/log-archive-tool) ✅
 3. [Nginx Log Analyser](https://roadmap.sh/projects/nginx-log-analyser) ✅
 4. Github Pages deployment
 5. SSH Remote Server Setup
